@@ -8,6 +8,7 @@ Car-Showcase in MERN Stack for college project
 Team members :
 - kumavat Jignesh 210305105361
 - Jay trimbake 210305105351
+- Divyapalsinh S Chauhan 210305105307
 ## Project info
 
 The Car Showcase Dashboard is a project 
