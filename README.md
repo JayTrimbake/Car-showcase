@@ -10,7 +10,7 @@ Team members :
 - Jay trimbake 210305105351
 ## Project info
 
-The Car Showcase Dashboard is a project aimed at creating a user-friendly interface for managing tasks. It includes features such as
+The Car Showcase Dashboard is a project 
 - Signup
 - Login
 - Logout
